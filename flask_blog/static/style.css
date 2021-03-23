@@ -1,0 +1,9 @@
+.card{
+    margin: 0.25rem;
+}
+.blog-body{
+    padding:1.25em;
+}
+* {
+    font-family: 'Shadows Into Light', cursive;
+}
